@@ -1,3 +1,3 @@
 # GitAlf1
 Alvins 1st GIthub project
-This is my first tutorial in github
+1st attempt made screw up. 2nd attempt now
